@@ -1,0 +1,3 @@
+class WeekdaysController < ApplicationController
+    
+end
